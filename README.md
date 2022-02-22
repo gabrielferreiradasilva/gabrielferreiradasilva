@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Olá 👋, Eu sou Gabriel Ferreira da Silva</h1>
+<br />
+<h3 align="center">Estudante para desenvolvedor do Brasil.</h3>
+<br />
 
-<!--
-**gabrielferreiradasilva/gabrielferreiradasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estou aprendendo **Java, Javascript, Vue.Js e React.Js.**
 
-Here are some ideas to get you started:
+- Como entrar em contato comigo **gabrielguimasilva@hotmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left ">
+<a href="https://linkedin.com/in/linkedin.com/in/gabriel-ferreira-655034211" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin.com/in/gabriel-ferreira-655034211" height= "80" largura="100" /></a>
+</p>
+
+
+
+<div align="center">
+  <a href="https://github.com/gabrielferreiradasilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielferreiradasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferreiradasilva&layout=compact&langs_count=7&theme=dracula"/>
+</div>
